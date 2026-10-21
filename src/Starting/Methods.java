@@ -1,3 +1,5 @@
+package Starting;
+
 public class Methods {
     static void print2kaTable() {
         for(int i =1;i<=10;i++){

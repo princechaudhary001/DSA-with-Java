@@ -1,12 +1,12 @@
 package constructor;
 
-public class Student {
-            Student() {
+public class Studentq {
+            Studentq() {
             System.out.println("Default Constructor");
         }
 
         public static void main(String[] args) {
-            Student s = new Student();
+            Studentq s = new Studentq();
         }
     }
 

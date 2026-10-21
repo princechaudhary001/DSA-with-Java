@@ -1,3 +1,5 @@
+package Starting;
+
 public class string {
     static void main() {
         String firstname = "prince";

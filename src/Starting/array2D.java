@@ -1,3 +1,5 @@
+package Starting;
+
 public class array2D {
     static void main(){
         int[][] arr;

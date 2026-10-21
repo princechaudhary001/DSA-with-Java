@@ -1,3 +1,5 @@
+package Starting;
+
 import java.util.Scanner;
 
 public class inputtaking2darray {
