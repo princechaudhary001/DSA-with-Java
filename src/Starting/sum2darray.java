@@ -1,3 +1,5 @@
+package Starting;
+
 public class sum2darray {
     static void main(){
         int arr[][] = {{1,2,3},{1,2,3}};
